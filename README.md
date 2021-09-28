@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**jvsoave/jvsoave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🆕 Estudante do Ensino Médio
+ - 💻 Cursando Desenvolvimento de Sistemas na ETEC
+ - 😎 Pronomes: ele/dele
+ - 💬 Falo português (🇧🇷) e um pouco de inglês (🇺🇸)
+ - 📚 Aprendendo: HTML, PHP, SQL, JAVA e C.
+ - 💼 Ferramentas que eu uso: Visual Studio Code, NetBeans e MySQL Workbench
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/jvsoave">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jvsoave&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height"180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsoave&layout=compact&langs_count16&theme=prussian"/>
+</div>
